@@ -75,7 +75,7 @@ input {
 }
 
 button {
-   padding: 0.45em 1.25em;
+   padding: 0.65em 1.25em;
    border-radius: 8px;
    background-color: #FD4;
    color: #111;
@@ -84,3 +84,6 @@ button {
    font-family: 'Handlee', cursive;
 }
 
+button span {
+   vertical-align: middle;
+}
